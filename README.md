@@ -1,2 +1,3 @@
-# FreqLinID
-Identification of Linear Stationary Objects Based on Frequency Characteristics
+TODO:
+
+- StabilityAnalyzer не корректно обрабатывает маргинальную устойчивость (testMarginallyStableSystem)
